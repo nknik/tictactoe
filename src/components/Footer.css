@@ -1,0 +1,16 @@
+.footer {
+  padding: 10px;
+  background-color: #000;
+  padding: 20px;
+  justify-content: space-between;
+}
+
+.footer p {
+  color: #fff;
+  text-decoration: none;
+}
+
+
+.heart {
+  color: #e25555;
+}

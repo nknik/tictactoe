@@ -1,0 +1,20 @@
+body{background-color: #2ab7ca;
+}
+label{
+    background-color: #000;
+    color: #fff;
+    padding: 10px 15px;
+
+  }
+input[type="submit"] {
+  background-color: black;
+  color: #fff;
+  border: none;
+  outline: none;
+  padding: 10px 15px;
+  margin: 0 auto;
+  border-radius: 3px;
+  font-size: 1rem;
+  margin-top: 15px;
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 4px 15px 0px;
+}
